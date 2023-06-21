@@ -1,6 +1,6 @@
 # Hi 👋 I'm Tim!
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:timothytan1999@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-tan-9620b01a3/)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timothytan1999@gmail.com)
 
 ## About Me
 I am a recent Data Science and AI graduate from Nanyang Technological University. I have a strong interest in exploring the applications of deep learning to solve everyday problems.
@@ -11,9 +11,6 @@ I am a recent Data Science and AI graduate from Nanyang Technological University
 
 ## Open to Opportunities
 I am actively seeking job opportunities in the field of Machine Learning/AI, as well as software engineer roles. I am also interested in learning more about Web3/Blockchain technologies.
-
-## Contact Me
-- Email: [timothytan1999@email.com](mailto:timothytan1999@email.com)
 
 ## Open-Source Contributions
 I have contributed to the [SSL4MIS](https://github.com/organization/repo) repository for medical image segmentation.

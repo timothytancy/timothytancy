@@ -14,9 +14,6 @@ I am actively seeking job opportunities in the field of Machine Learning/AI, as 
 - Email: [timothytan1999@email.com](mailto:timothytan1999@email.com)
 - LinkedIn: [Timothy Tan](https://www.linkedin.com/in/timothy-tan-9620b01a3/)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timothytancy&show_icons=true)
-
 ## Open-Source Contributions
 I have contributed to the [SSL4MIS](https://github.com/organization/repo) repository for medical image segmentation.
 

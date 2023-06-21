@@ -5,15 +5,15 @@
 ## About Me
 I am a recent Data Science and AI graduate from Nanyang Technological University. I have a strong interest in exploring the applications of deep learning to solve everyday problems.
 
-## Projects and Achievements
-- Developed image augmentation strategies for semi-supervised image segmentation models
-- Implemented generated soft targets to improve action recognition networks
+## Projects
+- Implemented image augmentation strategies for a semi-supervised image segmentation technique (FixMatch). [Link](https://github.com/timothytancy/SSL4MIS) to repo. 
+- Implemented generated soft targets to improve action recognition networks (STGCN). [Link](https://github.com/timothytancy/mmaction2) to repo. 
 
 ## Open to Opportunities
 I am actively seeking job opportunities in the field of Machine Learning/AI, as well as software engineer roles. I am also interested in learning more about Web3/Blockchain technologies.
 
 ## Open-Source Contributions
-I have contributed to the [SSL4MIS](https://github.com/organization/repo) repository for medical image segmentation.
+I have contributed to the [SSL4MIS](https://github.com/HiLab-git/SSL4MIS) repository for medical image segmentation.
 
 ## Skills and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,7 +23,7 @@ I have contributed to the [SSL4MIS](https://github.com/organization/repo) reposi
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-[Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)

@@ -6,8 +6,8 @@
 I am a recent Data Science and AI graduate from Nanyang Technological University. I have a strong interest in exploring the applications of deep learning to solve everyday problems.
 
 ## Projects
-- Implemented image augmentation strategies for a semi-supervised image segmentation technique (FixMatch). [Link](https://github.com/timothytancy/SSL4MIS) to repo. 
-- Implemented generated soft targets to improve action recognition networks (STGCN). [Link](https://github.com/timothytancy/mmaction2) to repo. 
+- Implemented image augmentation strategies for a semi-supervised image segmentation technique (FixMatch) [here](https://github.com/timothytancy/SSL4MIS).
+- Implemented generated soft targets to improve action recognition networks (STGCN) [here](https://github.com/timothytancy/mmaction2). 
 
 ## Open to Opportunities
 I am actively seeking job opportunities in the field of Machine Learning/AI, as well as software engineer roles. I am also interested in learning more about Web3/Blockchain technologies.
